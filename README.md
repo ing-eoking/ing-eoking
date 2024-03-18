@@ -10,5 +10,3 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=koo05131)](https://solved.ac/koo05131)
-
-![방문자 수](https://img.shields.io/github/issues-raw/ing-eoking/ing-eoking)

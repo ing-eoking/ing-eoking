@@ -1,6 +1,6 @@
 ### SKILLS
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Metrics](./metrics-languages.svg)
 
 <img src="https://img.shields.io/badge/C-65576B?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-65576B?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Linux-65576B?style=for-the-badge&logo=opensuse&logoColor=white">
 <img src="https://img.shields.io/badge/Python-65B96B?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/R-65B96B?style=for-the-badge&logo=r&logoColor=white">

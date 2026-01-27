@@ -21,4 +21,10 @@ jobs:
           plugin_languages_ignored: html, css
           plugin_languages_threshold: 2%
           filename: metrics-languages.svg
-
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add metrics-languages.svg
+          git commit -m "Update language metrics"
+          git push

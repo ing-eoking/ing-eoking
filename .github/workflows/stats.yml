@@ -12,3 +12,10 @@ jobs:
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "pie, leaderboard"
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .
+          git commit -m "Update language statistics" || echo "No changes"
+          git push

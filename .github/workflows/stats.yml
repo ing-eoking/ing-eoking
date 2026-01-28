@@ -17,6 +17,7 @@ jobs:
           committer_gist: ${{ secrets.GIST_ID }}
           filename: languages.json
           config_output: json
+          repositories_skipped: Trash
           base: ""
           plugin_languages: yes
           plugin_languages_details: percentage
